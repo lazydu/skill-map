@@ -80,14 +80,12 @@
 - Java Commonly-used 3rd-party Libraries
 	* Logging
 		+ log4j
-		+ slf4j
-		+ logback
 	* Unit Test
 		+ Junit
 		+ Mockito
 		+ TestNG
 	* Code Coverage
-		+ jacoco
+		+ PMD
 		+ Clover
 		+ EMMA
 	* Apache Commons
@@ -104,8 +102,7 @@
 - Software Engineering
 	* Project Organization
 		+ Maven
-		+ Gradle
-		+ Ant + Ivy (Optional)
+		+ Gradle		
 	* Versioning
 		+ git
 		+ svn
@@ -122,8 +119,7 @@
 		+ CSS3
 	* Data Representation
 		+ XML
-		+ JSON
-		+ JSONP
+		+ JSON		
 	* Javascript
 	        + ECMAScript 6
 		+ Basics (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
